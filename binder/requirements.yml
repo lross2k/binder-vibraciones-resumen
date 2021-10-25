@@ -1,5 +1,5 @@
-name: python 3.6
+name: example-environment
+channels:
+  - conda-forge
 dependencies:
-  - python=3.6
-  - ipython
   - numpy
